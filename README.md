@@ -16,7 +16,7 @@ This repository contains the following source code:
 
 This implementation was developed for the p4-utils VM, which can be installed as documented in the corresponding [Wiki](https://nsg-ethz.github.io/p4-utils/installation.html#virtual-machine).
 
-# Running Instructions for CROFT Experiment
+# Running Instructions for ALBUS Experiment
 
 1.  Copy the code to the p4-utils VM.
 2.  `cd` to the directory with the code.
